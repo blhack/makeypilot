@@ -1,0 +1,3 @@
+Drone seems to follow the direction of its last command.  For instance, if you call drone.move_right(), it will KEEP moving right until you tell it something else.
+
+Need to specify an amount of time to go in a direction.  This will make it easier for kids to "program" the drone.
